@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+}
+
+.header{
+   
+    padding: 90px 120px;
+    height: 600px;
+  }
+
+
+.left{
+    float: left;
+    width:50% ;
+}
+.left h1{
+    color: #db5456;
+    font-weight: 900;
+}
+.left p{
+    font-size: 22px;
+    line-height: 35px;
+}
+
+
+
+.right img{
+    float: right;
+    border-radius: 50%;
+    width: 500px;
+}
+
